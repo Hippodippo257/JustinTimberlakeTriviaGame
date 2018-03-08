@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">The Justin Timberlake Trivia Game</string>
+    <string name="Title_Banner">Banner Photo</string>
+    <string name="q1">1. Where was Justin Timberlake born?</string>
+    <string name="hint">City</string>
+    <string name="q2">2. Check all that are members of his family</string>
+    <string name="Silas">Silas</string>
+    <string name="Jessica">Jessica</string>
+    <string name="Jimmy">Jimmy</string>
+    <string name="Lynn">Lynn</string>
+    <string name="Jonathan">Jonathan</string>
+    <string name="Randy">Randy</string>
+    <string name="q3">3.  What is the name of his new album? </string>
+    <string name="Justified">Justified</string>
+    <string name="Reputation">Reputation</string>
+    <string name="TTTE">The 20/20 Experience</string>
+    <string name="MOTW">Man of the Woods</string>
+    <string name="q4">4. Justin proposed in Italy </string>
+    <string name="t">True</string>
+    <string name="f">False</string>
+    <string name="q5">5. Check all of the albums from *NSYNC. </string>
+    <string name="album1">No Strings Attached</string>
+    <string name="album2">FutureSex/LoveSounds</string>
+    <string name="album3">Celebrity</string>
+    <string name="album4">*NSYNC</string>
+    <string name="SUBMIT">SUBMIT</string>
+</resources>
